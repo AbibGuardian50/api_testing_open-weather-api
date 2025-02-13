@@ -1,4 +1,3 @@
-Katalon Test Automation Guide
 How to Clone and Run the Project
 
     Open Katalon Studio
