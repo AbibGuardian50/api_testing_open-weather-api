@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>API Testing by asserting: 
+- Response Body
+- Json Schema
+- Status Code
+- Content-Type
+- Code Validation (Ensure it's not 4xx or 5xx)</description>
+   <name>TC-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0844c34-a269-428f-bd6b-e3b369c6a38b</testCaseGuid>
+</TestCaseEntity>
