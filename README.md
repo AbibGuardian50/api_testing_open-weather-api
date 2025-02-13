@@ -6,7 +6,7 @@ How to Clone and Run the Project
     Fill in authentication details:
         Username: Your GitHub username
         Password: Use a Personal Access Token (PAT) instead of a password
-            Generate your PAT here
+            Generate your PAT here https://github.com/settings/tokens
     Click Next
     Choose the desired branch:
         If the repository does not contain multiple branches, simply click Next
