@@ -40,3 +40,7 @@ Folder Structure Overview
     Test Suites/: Groups multiple test cases to be executed together, facilitating organized and efficient testing.
     
     settings/: Holds project-specific settings and configurations.
+
+Source to find Lat & long 
+
+    https://www.findlatitudeandlongitude.com/l/Jakarta+Selatan%2C+DKI+Jakarta/3759633/#google_vignette
